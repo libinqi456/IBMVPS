@@ -1,4 +1,4 @@
-name: IBM Cloud Auto Restart
+name: IBM Cloud BINKY01 Auto Restart
 
 on:
   push:
